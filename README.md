@@ -1,4 +1,3 @@
-#Categorical-Feature-Encoding
 Encoding the categorical data (binary, nominal, ordinal) for binary classification for a synthetically created dataset. 
 
 Data Description:
